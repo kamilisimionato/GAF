@@ -1,0 +1,7 @@
+git config --global user.name felxxy
+git config --global user.email isabellevasconcelos854@gmail.com
+
+
+Criando um projeto Web API com .net 9
+dotnet new webapi -o GAF.API --use-controllers
+
