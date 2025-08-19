@@ -1,5 +1,5 @@
-git config --global user.name felxxy
-git config --global user.email isabellevasconcelos854@gmail.com
+git config --global user.name kamilisimionato
+git config --global user.email kamili.simionato@etec.sp.gov.br
 
 
 Criando um projeto Web API com .net 9
