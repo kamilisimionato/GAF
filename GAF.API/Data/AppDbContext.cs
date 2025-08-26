@@ -62,7 +62,7 @@ public class AppDbContext : IdentityDbContext<User>
             PasswordHasher<IdentityUser> pass = new();
             user.PasswordHash = pass.HashPassword(user, "123456");
         }
-        builder.Entity<Usuario>().HasData(usuarios);
+        builder.Entity<User>().HasData(usuarios);
         #endregion
 
         #region Populate UserRole - Usuário com Perfil
