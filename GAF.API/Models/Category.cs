@@ -1,7 +1,7 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Models;
+namespace GAF.API.Models;
 
 [Table("categories")]
 public class Category

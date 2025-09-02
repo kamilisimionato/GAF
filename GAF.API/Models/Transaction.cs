@@ -1,7 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Transactions;
-using Models;
 
 namespace GAF.API.Models;
 
